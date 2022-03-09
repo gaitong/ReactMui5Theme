@@ -58,7 +58,7 @@ export default function Header(props) {
             noWrap
             sx={{ flexGrow: 1 }}
           >
-            React Mui5 Dev Standard
+            React Mui5
           </Typography>
           <IconButton color="inherit">
             <Badge badgeContent={4} color="secondary">
